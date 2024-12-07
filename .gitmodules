@@ -413,6 +413,7 @@ url = ssh://git@github.com/CodeEditorLand/Egui.git
 [submodule "TauriPluginAuthenticator"]
 path = TauriPluginAuthenticator
 url = ssh://git@github.com/CodeEditorLand/TauriPluginAuthenticator.git
+
 [submodule "TauriDocs"]
 path = TauriDocs
 url = ssh://git@github.com/CodeEditorLand/TauriDocs.git
